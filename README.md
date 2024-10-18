@@ -2,7 +2,7 @@
 
 If you're a beginner wanting to learn Python or an experienced developer seeking to expand your knowledge, this repo will help you.
 
-## I will cover the following topics and more:
+## I covered the following topics and more:
 
 - Python syntax and language basics
 
@@ -20,7 +20,7 @@ If you're a beginner wanting to learn Python or an experienced developer seeking
 
 - Best practices for writing clean, efficient, and Pythonic code
 
-Along the way, I will provide practical examples, and clear explanations through GitHub repositories, and share resources to help you deepen your understanding.
+Along the way, I provided practical examples and clear explanations through GitHub repositories and shared resources to help you deepen your understanding.
 
 ## Learn More & Contact Me
 
